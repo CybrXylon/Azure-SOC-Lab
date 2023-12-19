@@ -59,7 +59,8 @@ Stop Time 2023-12-14T23:21:00.0492444Z
 
 ## Attack Maps Before Hardening / Security Controls
 
-```All map queries actually returned no results due to no instances of malicious activity for the 24 hour period after hardening.```
+![image](https://github.com/CybrXylon/Azure-SOC-Lab/assets/150117045/ebb3eea6-266b-415e-adad-9dbbfefcbc34)
+
 
 ## Metrics After Hardening / Security Controls
 
